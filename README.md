@@ -6,9 +6,16 @@
  ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to AWS Cloud9!
+Front End Development Using Following Development:
+1. HTML5, CSS3, JavaScript
+2. jQuery and Bootstrap
+3. AOS (Animate on Scroll)
+4. Basic Cross-platform One Page Scroll Plugin With jQuery
+5. Node.js for development
+6. Typescript
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+Back End Development Stack
+1. MongoDB for Database
+2. Express.js for Restful routing and apis
+3. Node.js and npm
+4. AWS Cloud9 for IDE

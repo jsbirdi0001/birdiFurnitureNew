@@ -1,0 +1,53 @@
+.container-justify {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+.link-block{
+    color: black;
+}
+.link-block:hover{
+    text-decoration: none;
+    color: black;
+}
+text-white-hover:hover{
+    color: WHITE;
+}
+text-black-hover:hover{
+    color: black;
+}
+body{
+    box-sizing: border-box;
+}
+
+/* Scrolling styling goes here */
+#fullpage {
+  height: 100vh;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+}
+#fullpage section { height: 100vh; margin: 0; padding: 0; }
+
+#fullpage section:nth-child(1){
+}
+#fullpage section:nth-child(2){
+    background-color: dodgerblue;
+}
+
+/* Navbar Styling goes here */
+
+.space-around{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.navbar button{
+    padding: 10px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid transparent;
+}
+.navbar button:hover{
+    border-bottom: 2px solid green;
+}
